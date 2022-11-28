@@ -31,3 +31,6 @@ O projeto foi desenvolvido com as seguintes características:
    > Para uma correta exibição da mensagem quando alterado o sentido de apresentação com a SW[3] = 1 inverter também a ordem de leitura da mensagem com a SW[1] = 1
 
 ## Snapshots
+
+<img src="1.gif" width="200">  
+<br/>
