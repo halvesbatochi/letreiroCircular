@@ -32,8 +32,10 @@ O projeto foi desenvolvido com as seguintes características:
 
 ## Snapshots
 
+SW[0] = 0 | SW[1] = 0 | SW[2] = 0 | SW[3] = 0
 <img src="1.gif" width="200">  
 <br/>
+SW[0] = 1 | SW[1] = 0 | SW[2] = 0 | SW[3] = 0
 <img src="2.gif" width="200">  
 <br/>
 <img src="3.gif" width="200">  
