@@ -27,7 +27,7 @@ O projeto foi desenvolvido com as seguintes características:
         * 0: Da direita para esquerda
         * 1: Da esquerda para direita
 <br />
-<br />
+
    > Para uma correta exibição da mensagem quando alterado o sentido de apresentação com a SW[3] inverter também a ordem de leitura da mensagem com a SW[1] = 1
 
 ## Snapshots
