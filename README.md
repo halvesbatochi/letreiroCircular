@@ -40,19 +40,35 @@ SW[0] = 1 | SW[1] = 0 | SW[2] = 0 | SW[3] = 0
 <br/>
 <img src="2.gif" width="200">  
 <br/>
+SW[0] = 0 | SW[1] = 1 | SW[2] = 0 | SW[3] = 0
+<br/>
 <img src="3.gif" width="200">  
+<br/>
+SW[0] = 1 | SW[1] = 1 | SW[2] = 0 | SW[3] = 0
 <br/>
 <img src="4.gif" width="200">  
 <br/>
+SW[0] = 0 | SW[1] = 0 | SW[2] = 1 | SW[3] = 0
+<br/>
 <img src="5.gif" width="200">  
+<br/>
+SW[0] = 0 | SW[1] = 0 | SW[2] = 1 | SW[3] = 0
 <br/>
 <img src="6.gif" width="200">  
 <br/>
+SW[0] = 0 | SW[1] = 0 | SW[2] = 0 | SW[3] = 1
+<br/>
 <img src="7.gif" width="200">  
+<br/>
+SW[0] = 1 | SW[1] = 0 | SW[2] = 0 | SW[3] = 1
 <br/>
 <img src="8.gif" width="200">  
 <br/>
+SW[0] = 0 | SW[1] = 1 | SW[2] = 0 | SW[3] = 1
+<br/>
 <img src="9.gif" width="200">  
+<br/>
+SW[0] = 1 | SW[1] = 1 | SW[2] = 0 | SW[3] = 1
 <br/>
 <img src="10.gif" width="200">  
 <br/>
