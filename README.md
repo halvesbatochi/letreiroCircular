@@ -34,3 +34,21 @@ O projeto foi desenvolvido com as seguintes características:
 
 <img src="1.gif" width="200">  
 <br/>
+<img src="2.gif" width="200">  
+<br/>
+<img src="3.gif" width="200">  
+<br/>
+<img src="4.gif" width="200">  
+<br/>
+<img src="5.gif" width="200">  
+<br/>
+<img src="6.gif" width="200">  
+<br/>
+<img src="7.gif" width="200">  
+<br/>
+<img src="8.gif" width="200">  
+<br/>
+<img src="9.gif" width="200">  
+<br/>
+<img src="10.gif" width="200">  
+<br/>
